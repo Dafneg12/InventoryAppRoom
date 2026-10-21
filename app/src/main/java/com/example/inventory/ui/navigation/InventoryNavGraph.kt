@@ -15,7 +15,6 @@ import com.example.inventory.ui.item.ItemEditDestination
 import com.example.inventory.ui.item.ItemEditScreen
 import com.example.inventory.ui.item.ItemEntryDestination
 import com.example.inventory.ui.item.ItemEntryScreen
-
 @Composable
 fun InventoryNavHost(
     navController: NavHostController,
