@@ -155,7 +155,6 @@ fun ItemDetails(
         modifier = modifier, colors = CardDefaults.cardColors(
             containerColor = MaterialTheme.colorScheme.primaryContainer,
             contentColor = MaterialTheme.colorScheme.onPrimaryContainer
-
         )
     ) {
         Column(
