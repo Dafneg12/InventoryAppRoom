@@ -124,7 +124,7 @@ private fun HomeBody(
                 text = stringResource(R.string.no_item_description),
                 textAlign = TextAlign.Center,
                 style = MaterialTheme.typography.titleLarge,
-                modifier = Modifier.padding(contentPadding),
+                //modifier = Modifier.padding(contentPadding),
             )
         } else {
             InventoryList(
