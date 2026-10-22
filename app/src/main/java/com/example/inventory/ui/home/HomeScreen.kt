@@ -119,7 +119,6 @@ private fun HomeBody(
         horizontalAlignment = Alignment.CenterHorizontally,
         modifier = modifier,
     ) {
-
         if (itemList.isEmpty()) {
             Text(
                 text = stringResource(R.string.no_item_description),
